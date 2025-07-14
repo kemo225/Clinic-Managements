@@ -1,0 +1,15 @@
+D:\BussinessLayerClinics\bin\Debug\net8.0\2_BussinessLayerClinics.deps.json
+D:\BussinessLayerClinics\bin\Debug\net8.0\2_BussinessLayerClinics.dll
+D:\BussinessLayerClinics\bin\Debug\net8.0\2_BussinessLayerClinics.pdb
+D:\BussinessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.dll
+D:\BussinessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.pdb
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.csproj.AssemblyReference.cache
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.GeneratedMSBuildEditorConfig.editorconfig
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.AssemblyInfoInputs.cache
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.AssemblyInfo.cs
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.csproj.CoreCompileInputs.cache
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_Bussin.A49902D1.Up2Date
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.dll
+D:\BussinessLayerClinics\obj\Debug\net8.0\refint\2_BussinessLayerClinics.dll
+D:\BussinessLayerClinics\obj\Debug\net8.0\2_BussinessLayerClinics.pdb
+D:\BussinessLayerClinics\obj\Debug\net8.0\ref\2_BussinessLayerClinics.dll

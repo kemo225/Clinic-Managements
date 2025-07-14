@@ -1,0 +1,14 @@
+D:\DataAccessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.deps.json
+D:\DataAccessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.runtimeconfig.json
+D:\DataAccessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.dll
+D:\DataAccessLayerClinics\bin\Debug\net8.0\3_DataAccessLayerClinics.pdb
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.csproj.AssemblyReference.cache
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.AssemblyInfoInputs.cache
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.AssemblyInfo.cs
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.csproj.CoreCompileInputs.cache
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.dll
+D:\DataAccessLayerClinics\obj\Debug\net8.0\refint\3_DataAccessLayerClinics.dll
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.pdb
+D:\DataAccessLayerClinics\obj\Debug\net8.0\3_DataAccessLayerClinics.genruntimeconfig.cache
+D:\DataAccessLayerClinics\obj\Debug\net8.0\ref\3_DataAccessLayerClinics.dll
