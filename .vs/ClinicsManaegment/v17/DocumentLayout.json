@@ -1,0 +1,1824 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClinicsManaegment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\3_dataaccesslayerclinics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\middlware\\fillcurrentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:middlware\\fillcurrentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\middlware\\authorizationmiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:middlware\\authorizationmiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\login\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\global\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\appoinmentdoctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\appoinmentdoctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\nursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\login\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\login\\clsdataaccesslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\doctor\\clsdataaccessdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\nurse\\clsdataaccessnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\passwordservice\\clsdataaccesspasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\passwordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\doctor\\dtoupdatepassworddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\nurse\\dtoupdatepasswordnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\finescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\finescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\nurse\\dtonurseupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\doctor\\dtodoctorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clspatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Nurses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.BookingsDeletes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\specialtiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\specialtiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\1_clinicsmanaegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:1_clinicsmanaegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\clinicsmanaegment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:clinicsmanaegment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\1_clinicsmanaegment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:1_clinicsmanaegment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|d:\\clinicsmanaegment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F13965E-09F8-4795-91AD-8C4F86447488}|1_ClinicsManaegment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\2_bussinesslayerclinics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\validation\\clsdataaccessvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsfinebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\bookingdeletes\\clsdataaccessbookdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\bookingdeletes\\dtobookingdeletesread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\booking\\dtobookingread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\booking\\clsdataaccessbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\booking\\dtobookingadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\clinicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\bookingdeletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\booking\\dtobookingupdatecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\booking\\dtobookupatepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\patient\\clsdataaccesspatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\patient\\dtopatientreadupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250711030404_AddTableBookingDeletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.DoctorSchedule.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\scheduledoctormapping\\clsdataaccessscheduledoctormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\scheduledoctormapping\\dtoscheduledoctorread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clspayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsscheduledoctormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsappoinement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\scheduledoctormapping\\dtoscheduledoctoradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\appoinemts\\dtoaddappoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\appoinemts\\dtoappointmentread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\scheduledoctormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\appoinemts\\clsdataaccessappoinemt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\doctor\\dtodoctorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.DoctorSchedule.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.ScheduleDoctorMapping.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\doctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\doctor\\dtodoctorread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\payment\\clsdataaccesspayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\clsreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\payment\\dtopaymentread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\payment\\dtopaymentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\payment\\dtopaymentadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250707141243_delteorderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250707125250_addorderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\review\\clsdataaccessreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\review\\dtoreviewread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\review\\dtoreviewadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250702173542_KK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\review\\dtoreviewupdatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\nurse\\dtonursecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\nurse\\dtonurseread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\patient\\dtopatientadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250630114554_MM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250630114503_MM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Nurses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Doctor\\DoctorU.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250628023039_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625071052_M5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625070356_M3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625070200_M2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625070017_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625065618_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625065255_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625064938_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625064821_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625064723_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DataAccessLayerClinics\\Migrations\\20250625064612_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6DC98-72B5-43B3-AA4C-27F7EB7D3146}|..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj|d:\\bussinesslayerclinics\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250702155014_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250702171928_k1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250707135155_phonenumberpaymentto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250709023800_adddayofweekcol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250711042852_lkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250711030530_addtablebookingdeletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E17-E17A-44E5-9768-0A74CC390840}|..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj|d:\\dataaccesslayerclinics\\migrations\\20250711033552_addcolbookid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:48:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppoinmentDoctorsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\AppoinmentDoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppoinmentDoctorsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\AppoinmentDoctorsController.cs",
+              "RelativeToolTip": "Controllers\\AppoinmentDoctorsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:02:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsGlobal.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\Global\\ClsGlobal.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\Global\\ClsGlobal.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\Global\\ClsGlobal.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\Global\\ClsGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:54:14.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FillCurrentUserMiddleware.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Middlware\\FillCurrentUserMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlware\\FillCurrentUserMiddleware.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Middlware\\FillCurrentUserMiddleware.cs",
+              "RelativeToolTip": "Middlware\\FillCurrentUserMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:20:29.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:30:21.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3_DataAccessLayerClinics.csproj",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj",
+              "ToolTip": "D:\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\3_DataAccessLayerClinics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T03:54:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwHUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:36:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationMiddelware.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Middlware\\AuthorizationMiddelware.cs",
+              "RelativeDocumentMoniker": "Middlware\\AuthorizationMiddelware.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Middlware\\AuthorizationMiddelware.cs",
+              "RelativeToolTip": "Middlware\\AuthorizationMiddelware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:47:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtoLogin.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Login\\DtoLogin.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Login\\DtoLogin.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Login\\DtoLogin.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Login\\DtoLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:06:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA5wIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:06:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:46:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:04:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NursesController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\NursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NursesController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\NursesController.cs",
+              "RelativeToolTip": "Controllers\\NursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:27:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Login\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Login\\CurrentUser.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Login\\CurrentUser.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Login\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:58:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClsAuth.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsAuth.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsAuth.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsAuth.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsAuth.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:23:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClsDataAccessLogin.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Login\\ClsDataAccessLogin.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Login\\ClsDataAccessLogin.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Login\\ClsDataAccessLogin.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Login\\ClsDataAccessLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:07:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClsDataAccessNurse.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Nurse\\ClsDataAccessNurse.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Nurse\\ClsDataAccessNurse.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Nurse\\ClsDataAccessNurse.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Nurse\\ClsDataAccessNurse.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:07.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClsDataAccessDoctor.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\ClsDataAccessDoctor.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\ClsDataAccessDoctor.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\ClsDataAccessDoctor.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\ClsDataAccessDoctor.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAADwv8cAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:25:02.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClinicDBContext.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\ClinicDBContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\ClinicDBContext.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\ClinicDBContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\ClinicDBContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:48:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClsDataAccessPasswordService.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\PasswordService\\ClsDataAccessPasswordService.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\PasswordService\\ClsDataAccessPasswordService.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\PasswordService\\ClsDataAccessPasswordService.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\PasswordService\\ClsDataAccessPasswordService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:12:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClsDoctor.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsDoctor.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsDoctor.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsDoctor.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsDoctor.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAA4wKQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:37:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordServices.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\PasswordServices.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\PasswordServices.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\PasswordServices.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\PasswordServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:34:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DToUpdatePasswordDoctor.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\DToUpdatePasswordDoctor.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\DToUpdatePasswordDoctor.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\DToUpdatePasswordDoctor.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\DToUpdatePasswordDoctor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T00:49:56.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DtoUpdatePasswordNurse.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Nurse\\DtoUpdatePasswordNurse.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Nurse\\DtoUpdatePasswordNurse.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Nurse\\DtoUpdatePasswordNurse.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Nurse\\DtoUpdatePasswordNurse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T00:57:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FinesController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\FinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinesController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\FinesController.cs",
+              "RelativeToolTip": "Controllers\\FinesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:44:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClsNurse.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsNurse.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsNurse.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsNurse.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsNurse.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwEoAAADKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:47:55.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DTONurseUpdate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseUpdate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Nurse\\DTONurseUpdate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseUpdate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Nurse\\DTONurseUpdate.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:00:26.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DTODoctorUpdate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorUpdate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorUpdate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorUpdate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorUpdate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:15:28.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClsBooking.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsBooking.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsBooking.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsBooking.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:15:29.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClsPatient.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsPatient.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsPatient.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsPatient.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:12:55.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Nurses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Nurses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Nurses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-13T00:33:41.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.BookingsDeletes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.BookingsDeletes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.BookingsDeletes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-13T00:33:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:33:08.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SpecialtiesController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\SpecialtiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpecialtiesController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\SpecialtiesController.cs",
+              "RelativeToolTip": "Controllers\\SpecialtiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T00:29:18.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\ClinicsManaegment\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:43:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "1_ClinicsManaegment",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\1_ClinicsManaegment.csproj",
+              "RelativeDocumentMoniker": "1_ClinicsManaegment.csproj",
+              "ToolTip": "D:\\ClinicsManaegment\\1_ClinicsManaegment.csproj",
+              "RelativeToolTip": "1_ClinicsManaegment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:22:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ClinicsManaegment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:00:34.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\EmailServices.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\EmailServices.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\EmailServices.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:19:22.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "1_ClinicsManaegment.csproj",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\1_ClinicsManaegment.csproj",
+              "RelativeDocumentMoniker": "1_ClinicsManaegment.csproj",
+              "ToolTip": "D:\\ClinicsManaegment\\1_ClinicsManaegment.csproj",
+              "RelativeToolTip": "1_ClinicsManaegment.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:33:05.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClinicsManaegment.http",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\ClinicsManaegment.http",
+              "RelativeDocumentMoniker": "ClinicsManaegment.http",
+              "ToolTip": "D:\\ClinicsManaegment\\ClinicsManaegment.http",
+              "RelativeToolTip": "ClinicsManaegment.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-12T02:55:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ClinicsManaegment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\ClinicsManaegment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T14:03:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "2_BussinessLayerClinics.csproj",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+              "ToolTip": "D:\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:43:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClsValidation.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsValidation.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsValidation.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsValidation.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsValidation.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:13:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DTOBookingRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Booking\\DTOBookingRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Booking\\DTOBookingRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:18:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClsDataAccessValidation.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Validation\\ClsDataAccessValidation.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Validation\\ClsDataAccessValidation.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Validation\\ClsDataAccessValidation.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Validation\\ClsDataAccessValidation.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:13:06.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClsDataAccessBooking.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Booking\\ClsDataAccessBooking.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Booking\\ClsDataAccessBooking.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Booking\\ClsDataAccessBooking.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Booking\\ClsDataAccessBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:38:53.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClsDataAccessBookDelete.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\BookingDeletes\\ClsDataAccessBookDelete.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\BookingDeletes\\ClsDataAccessBookDelete.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\BookingDeletes\\ClsDataAccessBookDelete.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\BookingDeletes\\ClsDataAccessBookDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:37:43.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClsFineBooking.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsFineBooking.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsFineBooking.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsFineBooking.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsFineBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:43:26.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DTOBookingAdd.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingAdd.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Booking\\DTOBookingAdd.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingAdd.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Booking\\DTOBookingAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBdwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:31:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DTOBookingDeletesRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\BookingDeletes\\DTOBookingDeletesRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\BookingDeletes\\DTOBookingDeletesRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\BookingDeletes\\DTOBookingDeletesRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\BookingDeletes\\DTOBookingDeletesRead.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:41:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClinicDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\ClinicDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\ClinicDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\ClinicDBContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\ClinicDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAOBvwLYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:26:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BookingDeletes.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\BookingDeletes.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\BookingDeletes.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\BookingDeletes.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\BookingDeletes.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:01:55.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20250711042852_LKL.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250711042852_LKL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250711042852_LKL.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250711042852_LKL.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250711042852_LKL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:28:52.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DTOBookUpatepayment.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Booking\\DTOBookUpatepayment.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Booking\\DTOBookUpatepayment.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Booking\\DTOBookUpatepayment.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Booking\\DTOBookUpatepayment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:59:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Booking.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Booking.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:35:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DTOBookingUpdateContent.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingUpdateContent.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Booking\\DTOBookingUpdateContent.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Booking\\DTOBookingUpdateContent.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Booking\\DTOBookingUpdateContent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:37:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ClsDataAccessPatient.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Patient\\ClsDataAccessPatient.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Patient\\ClsDataAccessPatient.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Patient\\ClsDataAccessPatient.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Patient\\ClsDataAccessPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:47:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DTOPatientReadUpdate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Patient\\DTOPatientReadUpdate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Patient\\DTOPatientReadUpdate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Patient\\DTOPatientReadUpdate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Patient\\DTOPatientReadUpdate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:25:41.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250711030404_AddTableBookingDeletes.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250711030404_AddTableBookingDeletes.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250711030404_AddTableBookingDeletes.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250711030404_AddTableBookingDeletes.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250711030404_AddTableBookingDeletes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:04:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20250711030530_AddTableBookingDeletes.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250711030530_AddTableBookingDeletes.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250711030530_AddTableBookingDeletes.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250711030530_AddTableBookingDeletes.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250711030530_AddTableBookingDeletes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:05:30.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20250711033552_Addcolbookid.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250711033552_Addcolbookid.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250711033552_Addcolbookid.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250711033552_Addcolbookid.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250711033552_Addcolbookid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:35:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Doctor.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Doctor.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Doctor.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwC0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:49:03.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "dbo.DoctorSchedule.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.DoctorSchedule.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.DoctorSchedule.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-11T02:11:13.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dbo.Doctors.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/sa/SqlTable/dbo.Doctors.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-10T00:09:18.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Nurse.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Nurse.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Nurse.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Nurse.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:49:24.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ClsDataAccessScheduleDoctorMapping.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\ClsDataAccessScheduleDoctorMapping.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\ClsDataAccessScheduleDoctorMapping.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\ClsDataAccessScheduleDoctorMapping.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\ClsDataAccessScheduleDoctorMapping.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:52:45.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DTOScheduleDoctorRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorRead.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:52:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Patient.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Patient.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Patient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:13:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.Patients.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Patients.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-09T23:23:15.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ClsPayment.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsPayment.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsPayment.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsPayment.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:09:46.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ClsScheduleDoctorMapping.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsScheduleDoctorMapping.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsScheduleDoctorMapping.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsScheduleDoctorMapping.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsScheduleDoctorMapping.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:56:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ClsAppoinement.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsAppoinement.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsAppoinement.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsAppoinement.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsAppoinement.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:49:59.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DTOScheduleDoctorAdd.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorAdd.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorAdd.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorAdd.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\ScheduleDoctorMapping\\DTOScheduleDoctorAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:20:54.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DToAddAppoinment.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Appoinemts\\DToAddAppoinment.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Appoinemts\\DToAddAppoinment.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Appoinemts\\DToAddAppoinment.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Appoinemts\\DToAddAppoinment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:48:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DTOAppointmentRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Appoinemts\\DTOAppointmentRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Appoinemts\\DTOAppointmentRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Appoinemts\\DTOAppointmentRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Appoinemts\\DTOAppointmentRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:45:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ScheduleDoctorMapping.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\ScheduleDoctorMapping.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\ScheduleDoctorMapping.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\ScheduleDoctorMapping.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\ScheduleDoctorMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:52:58.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "dbo.DoctorSchedule.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.DoctorSchedule.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.DoctorSchedule.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-09T02:39:13.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "dbo.ScheduleDoctorMapping.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.ScheduleDoctorMapping.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.ScheduleDoctorMapping.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-09T02:38:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ClsDataAccessAppoinemt.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Appoinemts\\ClsDataAccessAppoinemt.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Appoinemts\\ClsDataAccessAppoinemt.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Appoinemts\\ClsDataAccessAppoinemt.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Appoinemts\\ClsDataAccessAppoinemt.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwD0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:19:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20250709023800_AddDayOFWeekCol.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250709023800_AddDayOFWeekCol.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250709023800_AddDayOFWeekCol.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250709023800_AddDayOFWeekCol.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250709023800_AddDayOFWeekCol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:38:00.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DTODoctorCreate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorCreate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorCreate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorCreate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorCreate.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:17:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DTODoctorRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\DTODoctorRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\DTODoctorRead.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:54:01.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DoctorSchedule.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\DoctorSchedule.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\DoctorSchedule.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\DoctorSchedule.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\DoctorSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:43:32.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "dbo.Doctors.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Doctors.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-09T02:10:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DtopaymentRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Payment\\DtopaymentRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Payment\\DtopaymentRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Payment\\DtopaymentRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Payment\\DtopaymentRead.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:45:49.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ClsReview.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\ClsReview.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\ClsReview.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\ClsReview.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\ClsReview.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:47:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "clsdataaccessPayment.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Payment\\clsdataaccessPayment.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Payment\\clsdataaccessPayment.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Payment\\clsdataaccessPayment.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Payment\\clsdataaccessPayment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:27:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DTOPaymentAdd.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Payment\\DTOPaymentAdd.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Payment\\DTOPaymentAdd.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Payment\\DTOPaymentAdd.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Payment\\DTOPaymentAdd.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:25:40.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DTOPaymentUpdate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Payment\\DTOPaymentUpdate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Payment\\DTOPaymentUpdate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Payment\\DTOPaymentUpdate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Payment\\DTOPaymentUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:02:32.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Payment.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Payment.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:34:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20250707141243_DelteorderID.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250707141243_DelteorderID.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250707141243_DelteorderID.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250707141243_DelteorderID.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250707141243_DelteorderID.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:12:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20250707135155_phoneNumberpaymentTo.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250707135155_phoneNumberpaymentTo.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250707135155_phoneNumberpaymentTo.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250707135155_phoneNumberpaymentTo.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250707135155_phoneNumberpaymentTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:51:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20250707125250_AddOrderId.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250707125250_AddOrderId.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250707125250_AddOrderId.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250707125250_AddOrderId.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250707125250_AddOrderId.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:52:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DTOReviewAdd.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Review\\DTOReviewAdd.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Review\\DTOReviewAdd.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Review\\DTOReviewAdd.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Review\\DTOReviewAdd.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:37:14.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ClsDataAccessReview.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Review\\ClsDataAccessReview.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Review\\ClsDataAccessReview.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Review\\ClsDataAccessReview.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Review\\ClsDataAccessReview.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:38:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "DTOReviewRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Review\\DTOReviewRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Review\\DTOReviewRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Review\\DTOReviewRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Review\\DTOReviewRead.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:25:59.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Models\\Review.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Models\\Review.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Models\\Review.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:19:53.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250702173542_KK.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250702173542_KK.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250702173542_KK.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250702173542_KK.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250702173542_KK.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:35:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DToReviewUpdatee.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Review\\DToReviewUpdatee.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Review\\DToReviewUpdatee.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Review\\DToReviewUpdatee.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Review\\DToReviewUpdatee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:35:13.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20250702171928_K1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250702171928_K1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250702171928_K1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250702171928_K1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250702171928_K1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:19:29.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "DTONurseRead.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseRead.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Nurse\\DTONurseRead.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseRead.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Nurse\\DTONurseRead.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:54:05.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DTONurseCreate.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseCreate.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Nurse\\DTONurseCreate.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Nurse\\DTONurseCreate.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Nurse\\DTONurseCreate.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBcAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:58:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20250702155014_Intial.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250702155014_Intial.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250702155014_Intial.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250702155014_Intial.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250702155014_Intial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:50:14.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "dbo.Bookings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Bookings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-02T12:59:05.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DTOPatientAdd.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Patient\\DTOPatientAdd.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Patient\\DTOPatientAdd.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Patient\\DTOPatientAdd.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Patient\\DTOPatientAdd.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:46:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "dbo.Nurses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Nurses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./ClinicDB/True/SqlTable/dbo.Nurses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-30T11:43:46.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250630114503_MM.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250630114503_MM.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250630114503_MM.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250630114503_MM.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250630114503_MM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:45:04.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250630114554_MM.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250630114554_MM.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250630114554_MM.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250630114554_MM.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250630114554_MM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:45:54.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "DoctorU.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Doctor\\DoctorU.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Doctor\\DoctorU.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Doctor\\DoctorU.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Doctor\\DoctorU.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:25:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20250628023039_M1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250628023039_M1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250628023039_M1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250628023039_M1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250628023039_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:30:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250625071052_M5.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625071052_M5.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625071052_M5.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625071052_M5.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625071052_M5.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:10:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20250625070356_M3.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625070356_M3.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625070356_M3.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625070356_M3.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625070356_M3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:03:56.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20250625070200_M2.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625070200_M2.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625070200_M2.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625070200_M2.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625070200_M2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:02:00.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20250625070017_M1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625070017_M1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625070017_M1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625070017_M1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625070017_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:00:17.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20250625065618_M1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625065618_M1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625065618_M1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625065618_M1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625065618_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:56:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20250625065255_M1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625065255_M1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625065255_M1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625065255_M1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625065255_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:52:56.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20250625064938_m1.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625064938_m1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625064938_m1.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625064938_m1.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625064938_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:49:38.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20250625064821_m2.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625064821_m2.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625064821_m2.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625064821_m2.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625064821_m2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:48:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20250625064723_Intial.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625064723_Intial.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625064723_Intial.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625064723_Intial.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625064723_Intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:47:24.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20250625064612_m2.cs",
+              "DocumentMoniker": "D:\\DataAccessLayerClinics\\Migrations\\20250625064612_m2.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayerClinics\\Migrations\\20250625064612_m2.cs",
+              "ToolTip": "D:\\DataAccessLayerClinics\\Migrations\\20250625064612_m2.cs",
+              "RelativeToolTip": "..\\DataAccessLayerClinics\\Migrations\\20250625064612_m2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:46:13.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\BussinessLayerClinics\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayerClinics\\Class1.cs",
+              "ToolTip": "D:\\BussinessLayerClinics\\Class1.cs",
+              "RelativeToolTip": "..\\BussinessLayerClinics\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:18:13.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
