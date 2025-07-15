@@ -25,14 +25,14 @@ namespace _DataAccessLayerClinics.Review
                 return res;
             }
         }
-        public static DTOReviewRead GetReviewByPatientID(int ID)
+        public static DTOReviewRead GetReviewByPatientIDandDoctorID(int PatientID,int DoctorID)
         {
             using (ClinicDBContext context = new ClinicDBContext())
 
             {
                 var res = context.Reviews.Include(R => R.Doctor).
                     ThenInclude(R => R.Specialty).
-                    Include(R => R.Patient).Include(R => R.Booking).Where(R => R.PatientID == ID).Select(R => new DTOReviewRead(R.ID,
+                    Include(R => R.Patient).Include(R => R.Booking).Where(R => R.PatientID == PatientID&&R.DoctorID==DoctorID).Select(R => new DTOReviewRead(R.ID,
                     R.Patient.FirstName + " " + R.Patient.SecondName + " " + R.Patient.ThirdName,
                    Convert.ToInt32(R.Patient.Age), R.Notes, R.Doctor.FirstName + " " + R.Doctor.SecondName, R.Doctor.Specialty.Name, Convert.ToDateTime(R.ReviewDate), R.Booking.BookingDate,
                     R.Booking.BookingTime

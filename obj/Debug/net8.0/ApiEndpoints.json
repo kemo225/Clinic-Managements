@@ -44,7 +44,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.ScheduleDoctorMapping.DTOScheduleDoctorRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.ScheduleDoctorMapping.DTOScheduleDoctorRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -79,7 +79,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.ScheduleDoctorMapping.DTOScheduleDoctorRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.ScheduleDoctorMapping.DTOScheduleDoctorRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -361,7 +361,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Booking.DTOBookingRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Booking.DTOBookingRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -604,7 +604,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Booking.DTOBookingRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Booking.DTOBookingRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -770,7 +770,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DataAccessLayerClinics.DTOS.DTODoctorRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DataAccessLayerClinics.DTOS.DTODoctorRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -932,7 +932,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.BookingDeletes.DTOBookingDeletesRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.BookingDeletes.DTOBookingDeletesRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1036,7 +1036,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Nurse.DTONurseRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Nurse.DTONurseRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1264,7 +1264,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Patient.DTOPatientReadUpdate, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Patient.DTOPatientReadUpdate, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1510,7 +1510,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Payment.DtopaymentRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Payment.DtopaymentRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1554,7 +1554,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Payment.DtopaymentRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Payment.DtopaymentRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1853,7 +1853,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Review.DTOReviewRead, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Review.DTOReviewRead, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1883,14 +1883,19 @@
   },
   {
     "ContainingType": "_ClinicsManaegment.Controllers.ReviewsController",
-    "Method": "GetReviewByPatientID",
-    "RelativePath": "api/Reviews/GetReviewByPatientID/{id}",
+    "Method": "GetReviewByPatientIDandDoctorID",
+    "RelativePath": "api/Reviews/GetReviewByPatientIDandDoctorID/{PatientID}/{DoctorID}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "PatientID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "DoctorID",
         "Type": "System.Int32",
         "IsRequired": true
       }
@@ -2072,7 +2077,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Speciallty.DtoSpecialltyReadUpdate, 3_DataAccessLayerClinics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_DataAccessLayerClinics.Speciallty.DtoSpecialltyReadUpdate, 1_ClinicsManaegment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

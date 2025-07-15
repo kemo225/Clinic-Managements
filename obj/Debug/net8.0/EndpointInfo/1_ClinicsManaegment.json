@@ -3386,14 +3386,23 @@
         }
       }
     },
-    "/api/Reviews/GetReviewByPatientID/{id}": {
+    "/api/Reviews/GetReviewByPatientIDandDoctorID/{PatientID}/{DoctorID}": {
       "get": {
         "tags": [
           "Reviews"
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "PatientID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "DoctorID",
             "in": "path",
             "required": true,
             "schema": {

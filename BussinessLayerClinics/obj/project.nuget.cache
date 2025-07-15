@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CljwRB5eTxY=",
+  "dgSpecHash": "hrbXSSW4nxY=",
   "success": true,
-  "projectFilePath": "D:\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+  "projectFilePath": "D:\\ClinicsManaegment\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NVIDIA PLUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\NVIDIA PLUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -85,9 +85,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "D:\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+      "projectPath": "D:\\ClinicsManaegment\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
+      "filePath": "D:\\ClinicsManaegment\\BussinessLayerClinics\\2_BussinessLayerClinics.csproj",
       "targetGraphs": []
     }
   ]

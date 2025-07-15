@@ -103,16 +103,19 @@ namespace _BussinessLayerClinics
            this.ID= ClsDataAccessReview.AddReview(this.dtoReviewAdd);
             return (this.ID>0);
         }
-        public static ClsReview GetReviewByPatientID(int Id)
+        public static ClsReview GetReviewByPatientID(int patientID,int DoctorID)
         {
-            DTOReviewRead dtoReviewRead = ClsDataAccessReview.GetReviewByPatientID(Id);
+            DTOReviewRead dtoReviewRead = ClsDataAccessReview.GetReviewByPatientIDandDoctorID(patientID, DoctorID);
             if (dtoReviewRead == null)
             {
                 return null; // Review not found
             }
             return new ClsReview(dtoReviewRead, enMode.update);
         }
-
+        public static DTOReviewRead GetReviewByPatientIDDoctorID(int patientID,int DoctorID)
+        {
+            return ClsDataAccessReview.GetReviewByPatientIDandDoctorID(patientID, DoctorID);
+        }
         public bool Save()
         {
             switch

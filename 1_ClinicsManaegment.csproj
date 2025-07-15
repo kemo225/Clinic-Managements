@@ -29,6 +29,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BussinessLayerClinics\2_BussinessLayerClinics.csproj" />
+    <ProjectReference Include="BussinessLayerClinics\2_BussinessLayerClinics.csproj" />
 	  
   </ItemGroup>
 

@@ -1,4 +1,5 @@
 ﻿using _BussinessLayerClinics;
+using _BussinessLayerClinics.Global;
 using _DataAccessLayerClinics.Review;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -26,24 +27,28 @@ namespace _ClinicsManaegment.Controllers
             }
             return Ok(Res);
         }
-        [HttpGet("GetReviewByPatientID/{id}")]
+        [HttpGet("GetReviewByPatientIDandDoctorID/{PatientID}/{DoctorID}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
 
-        public ActionResult<DTOReviewRead> GetReviewByPatientID(int id)
+        public ActionResult<DTOReviewRead> GetReviewByPatientIDandDoctorID(int PatientID,int DoctorID)
         {
-            if (id <= 0)
+            if (PatientID <= 0)
             {
                 return BadRequest("Invalid patient ID.");
             }
-            var review = ClsReview.GetReviewByPatientID(id);
+            var review = ClsReview.GetReviewByPatientIDDoctorID(PatientID, DoctorID);
             if (review == null)
             {
-                return NotFound($"No review found for patient ID {id}.");
+                return NotFound($"No review found for patient ID {PatientID}.");
             }
-            return Ok(review.dtoReviewRead);
+            else if (ClsGlobal.Currentuser.Id != DoctorID)
+            {
+                return BadRequest($"error,Doctor {ClsDoctor.GetDoctorReadByID(DoctorID).FirstName} Cannot See Review For Doctor {ClsGlobal.Currentuser.Name}");
+            }
+            return Ok(review);
         }
 
         [HttpPost("AddReview")]
@@ -65,7 +70,7 @@ namespace _ClinicsManaegment.Controllers
             ClsReview clsReview = new ClsReview(dtoReviewAdd, ClsReview.enMode.add);
             if (clsReview.Save())
             {
-                return CreatedAtAction(nameof(GetReviewByPatientID), new { id = clsReview.ID }, clsReview.dtoReviewUpdate);
+                return CreatedAtAction(nameof(GetReviewByPatientIDandDoctorID), new { id = clsReview.ID }, clsReview.dtoReviewUpdate);
             }
             return BadRequest("Failed to add review.");
         }
@@ -81,12 +86,21 @@ namespace _ClinicsManaegment.Controllers
             {
                 return BadRequest("Invalid review data.");
             }
-            ClsReview clsReview = ClsReview.GetReviewByPatientID(dtoReviewUpdate.ID);
-            if (clsReview.Save())
+            ClsReview clsReview = ClsReview.GetReviewByPatientID(dtoReviewUpdate.PatientID,dtoReviewUpdate.DoctorID);
+            if (clsReview == null)
             {
-                return Ok(clsReview.dtoReviewUpdate);
+                return NotFound($"No review found for patient ID {dtoReviewUpdate.PatientID}.");
             }
-            return NotFound($"No review found with ID {dtoReviewUpdate.ID}.");
+            else if (ClsGlobal.Currentuser.Id != dtoReviewUpdate.DoctorID)
+            {
+                return BadRequest($"error,Doctor {ClsDoctor.GetDoctorReadByID(dtoReviewUpdate.DoctorID).FirstName} Cannot Update Review For Doctor {ClsGlobal.Currentuser.Name}");
+            }
+
+            if (!clsReview.Save())
+            {
+                return BadRequest("Error When Update Review");
+            }
+            return Ok(clsReview.dtoReviewUpdate);
         }
         [HttpDelete("DeleteReview/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]

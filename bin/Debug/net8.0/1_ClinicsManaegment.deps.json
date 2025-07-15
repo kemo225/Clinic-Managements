@@ -1191,28 +1191,11 @@
           }
         }
       },
-      "2_BussinessLayerClinics/1.0.0": {
-        "dependencies": {
-          "3_DataAccessLayerClinics": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.8",
-          "System.IdentityModel.Tokens.Jwt": "8.12.1"
-        },
-        "runtime": {
-          "2_BussinessLayerClinics.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "3_DataAccessLayerClinics/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.6"
-        },
+      "3_DataAccessLayerClinics.Reference/0.0.0.0": {
         "runtime": {
           "3_DataAccessLayerClinics.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
           }
         }
       }
@@ -1840,13 +1823,8 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "2_BussinessLayerClinics/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "3_DataAccessLayerClinics/1.0.0": {
-      "type": "project",
+    "3_DataAccessLayerClinics.Reference/0.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
